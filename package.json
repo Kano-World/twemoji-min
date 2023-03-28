@@ -1,22 +1,13 @@
+
 {
-  "name": "@kano-world/twemoji",
-  "version": "1.0.0",
-  "main": "index.js",
-  "description": "A copy of twemoji with exports and typescript definitions",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/KanoWorld/twemoji-min.git"
-  },
-  "author": "Paul Varache <paul@kano.me>",
-  "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
-  "bugs": {
-    "url": "https://github.com/KanoComputing/twemoji-min/issues"
-  },
-  "homepage": "https://github.com/KanoComputing/twemoji-min#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "name": "@kano-world/twemoji",
+    "version": "1.0.1",
+    "main": "index.js",
+    "description": "A copy of twemoji with exports and typescript definitions",
+    "repository": "git@github.com:KanoWorld/twemoji-min.git",
+    "author": "Paul Varache <paul@kano.me>",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    }
 }
