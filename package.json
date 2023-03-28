@@ -1,5 +1,5 @@
 {
-    "name": "@kano/twemoji",
+    "name": "@kano-world/twemoji",
     "version": "1.0.0",
     "main": "index.js",
     "description": "A copy of twemoji with exports and typescript definitions",
